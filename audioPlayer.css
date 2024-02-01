@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'player';
   src:
-    url('./fonts/player.ttf?cxp7hr') format('truetype'),
-    url('./fonts/player.woff?cxp7hr') format('woff'),
-    url('./fonts/player.svg?cxp7hr#player') format('svg');
+    url('./player.ttf?cxp7hr') format('truetype'),
+    url('./player.woff?cxp7hr') format('woff'),
+    url('./player.svg?cxp7hr#player') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
